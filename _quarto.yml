@@ -1,0 +1,36 @@
+project:
+  type: book
+
+book:
+  title: "Raghavun"
+  page-footer: "Copyright @ 2024, Ranjani Thiagu"
+  author: "Ranjani Thiagu"
+  date: "2/10/2024"
+  sidebar:
+    style: docked
+    background: light
+  chapters:
+    - index.md
+    - chapters/Chapter-1.md
+    - chapters/Chapter-2.md
+    - chapters/Chapter-3.md
+    - chapters/Chapter-5.md
+    - chapters/Chapter-6.md
+    - chapters/Chapter-7.md
+    - chapters/Chapter-8.md
+    - chapters/Chapter-9.md
+    - chapters/Chapter-10.md
+    - chapters/Chapter-11.md
+    - chapters/Chapter-12.md
+    - chapters/Chapter-13.md
+    - chapters/Chapter-14.md
+
+format:
+  html:
+    theme: 
+      light: [cosmo, theme.scss]
+    sidebar-width: 200px
+    margin-width: 500px
+    body-width: 600px
+    fontsize: 20px
+    css: styles.css
