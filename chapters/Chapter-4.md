@@ -1,6 +1,5 @@
 ---
 author: Ranjani Thiagu
-
 ---
 
 # Another Birth {.unnumbered}
